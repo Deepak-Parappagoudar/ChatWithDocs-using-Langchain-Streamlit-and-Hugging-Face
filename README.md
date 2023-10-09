@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 It is recommended to run this in a GPU accelerated environment. If not, you could always use smaller models. To do this, you have make appropiate changes in get_llm() function in [app.py](app.py).
 
-Alternatively, you could use OpenAI API if you a have dollar to two to spare. 
+Alternatively, you could use OpenAI API if you a have dollar or two to spare. 
 
  
 ## Usage:
